@@ -1,0 +1,13 @@
+# Site settings
+title: Maheshwari Creations Handloom Sarees 
+email: maheshwaricreations.handloom@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: creativesarees
+youtube_user : creativesarees
+facebook_user : Maheshwari Creations Handloom Sarees
+
+# Build settings
+markdown: kramdown
